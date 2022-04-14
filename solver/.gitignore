@@ -1,0 +1,7 @@
+map.txt
+solver
+*.c~
+*.o
+unit_test
+my.txt
+../generator/generator
